@@ -1,0 +1,33 @@
+{
+  "originHash" : "f01f247bb5a45ea0bc9a6ddb7dca25f6a15456192087511aab1fe727dc900174",
+  "pins" : [
+    {
+      "identity" : "extensions-swift-tools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/raycast/extensions-swift-tools.git",
+      "state" : {
+        "revision" : "72d4ac7bc5cc7e3fdf04fdce416b593ddfec8c00",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+        "version" : "509.1.1"
+      }
+    },
+    {
+      "identity" : "swiftlocation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malcommac/SwiftLocation.git",
+      "state" : {
+        "revision" : "010073e62cea4daefea61042a51b8619d23cdc35",
+        "version" : "6.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "sourceLanguages": [
+        "swift"
+      ],
+      "args": [],
+      "cwd": "${workspaceFolder:weather}",
+      "name": "Debug weather",
+      "program": "${workspaceFolder:weather}/.build/debug/weather",
+      "preLaunchTask": "swift: Build Debug weather"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "sourceLanguages": [
+        "swift"
+      ],
+      "args": [],
+      "cwd": "${workspaceFolder:weather}",
+      "name": "Release weather",
+      "program": "${workspaceFolder:weather}/.build/release/weather",
+      "preLaunchTask": "swift: Build Release weather"
+    }
+  ]
+}

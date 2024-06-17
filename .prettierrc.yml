@@ -1,0 +1,7 @@
+printWidth: 80
+singleQuote: true
+overrides:
+  [
+    { files: '*.ya?ml', options: { parser: yaml } },
+    { files: '*.html', options: { parser: angular } },
+  ]

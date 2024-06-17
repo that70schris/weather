@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundlePackageType</key>
+	<string>BNDL</string>
+  <key>CFBundleIdentifier</key>
+	<string>codes.bailey.weather</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>hello</string>
+  <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+  <string>asdf</string>
+  <key>NSLocationTemporaryUsageDescriptionDictionary</key>
+  <string>foo</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>goodbye</string>
+</dict>
+</plist>
